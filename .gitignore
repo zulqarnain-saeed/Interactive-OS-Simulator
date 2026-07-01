@@ -1,0 +1,17 @@
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+build/
+Debug/
+Release/
+
+.vs/
+.vscode/
+
+*.log
